@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\vs\RISCV-forc\RISCV-forc\instruction_decode.hpp(15,1): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+C:\vs\RISCV-forc\RISCV-forc\instruction_decode.hpp(21,1): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+C:\vs\RISCV-forc\RISCV-forc\instruction_decode.hpp(39,1): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+  RISCV-forc.vcxproj -> C:\vs\RISCV-forc\Debug\RISCV-forc.exe
